@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<developers>
+  <developer>
+    <name>Aaron Hurst</name>
+    <email>aaronpaulhurst@gmail.com</email>
+  </developer>
+  <developer>
+    <name>Aaron Hurst</name>
+    <email>aaronhurst@google.com</email>
+    <organization>Google</organization>
+    <organizationUrl>http://www.google.com</organizationUrl>
+  </developer>
+  <developer>
+    <name>Z for Zorzella</name>
+    <email>zorzella@google.com</email>
+    <organization>Google</organization>
+    <organizationUrl>http://www.google.com</organizationUrl>
+  </developer>
+  <developer>
+    <name>Edward Klimoshenko</name>
+    <email>eklimo@google.com</email>
+    <organization>Google</organization>
+    <organizationUrl>http://www.google.com</organizationUrl>
+  </developer>
+  <developer>
+    <name>Andreas Dangel</name>
+    <email>andreas.dangel@adangel.org</email>
+  </developer>
+</developers>
